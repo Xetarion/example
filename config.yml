@@ -48,7 +48,7 @@ params:
       category: Main Servers
     - name: Matchmaking
       category: Main Servers
-    - name: Friends, Parties & Messaging
+    - name: Friends Parties & Messaging
       category: Main Servers
     - name: Stats & Leaderboards
       category: Main Servers
